@@ -11,6 +11,8 @@
         <item name="android:windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="background">?android:colorBackground</item>
+        <item name="android:windowBackground">#000</item>
     </style>
 
     <style name="Theme.Light" parent="Base.AppTheme.Light" />
@@ -23,6 +25,8 @@
         <item name="android:windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">#000</item>
+        <item name="background">?android:colorBackground</item>
     </style>
 
     <style name="Theme" parent="Base.AppTheme" />
