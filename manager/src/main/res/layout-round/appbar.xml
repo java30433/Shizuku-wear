@@ -18,6 +18,7 @@
         android:elevation="0dp"
         android:minHeight="48dp"
         android:theme="@style/ThemeOverlay.MaterialComponents.ActionBar"
+        app:titleTextAppearance="?android:textAppearanceMedium"
         app:layout_collapseMode="pin"
         tools:title="Title" />
 
