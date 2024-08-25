@@ -138,6 +138,8 @@ configurations.configureEach {
 }
 
 dependencies {
+    implementation 'com.github.JessYanCoding:AndroidAutoSize:v1.2.1'
+
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test:runner:1.5.2'
